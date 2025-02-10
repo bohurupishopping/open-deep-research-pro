@@ -367,7 +367,7 @@ export function Chat({
                     className="pt-2"
                   >
                     <a
-                      href="https://github.com/fdarkaou/open-deep-research"
+                      href="https://github.com/bohurupishopping/open-deep-research-pro"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="inline-flex items-center px-2 py-1 md:px-6 md:py-2.5 text-xs md:text-sm font-medium 
