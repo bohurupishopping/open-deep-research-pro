@@ -20,12 +20,12 @@ export function Header() {
           <div className="flex-1 flex justify-center">
             <Link
               className="flex items-center text-md text-black"
-              href="https://anotherwrapper.com"
+              href="https://bohurupi.com"
               target="_blank"
             >
               <Image
                 src="/logo-text.png"
-                alt="Anotherwrapper Logo"
+                alt="Bohurupi ReSearch Logo"
                 width={400}
                 height={100}
                 className="w-48"
